@@ -24,6 +24,10 @@ Monthly payments are available for:
 - SQL Data Warehouse
 - Cosmos DB
 - App Service stamp fee
+- Azure Database for MySQL
+- Azure Database for MariaDB
+- Azure Database for PostgreSQL
+- Azure Data Explorer
 
 Purchase reservations in the [Azure portal](https://portal.azure.com/?Microsoft_Azure_Reservations_EnableMultiCart=true&amp;paymentPlan=true#blade/Microsoft_Azure_Reservations/CreateBlade).
 
